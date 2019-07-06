@@ -1,1 +1,1 @@
-![JS Extension payload](rfd using js extension.jpg)
+![JS Extension payload](rfd using js extension.png)
