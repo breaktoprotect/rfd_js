@@ -1,1 +1,1 @@
-![JS Extension payload](rfd using js extension.png)
+![JS Extension payload](https://github.com/breaktoprotect/rfd_js/blob/master/rfd%20using%20js%20extension.png)
